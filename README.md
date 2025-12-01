@@ -87,5 +87,12 @@ The final dataset includes:
 - **Location**: City and Country
 - **Type**: Classification (Type I/II)
 
+## 🗺️ Interactive Maps
+
+Explore the global distribution of international organizations:
+
+- **[Organization Map](https://raw.githubusercontent.com/androidilicious/ybio-scraper/refs/heads/main/data/organizations_map.html?preview=true)** - Interactive map with country-level markers showing organization counts
+- **[Heatmap](https://raw.githubusercontent.com/androidilicious/ybio-scraper/refs/heads/main/data/organizations_heatmap.html?preview=true)** - Density heatmap of organization concentration worldwide
+
 ---
 *Disclaimer: This tool is for educational and research purposes only. Please respect the website's terms of service and crawl rate limits.*
