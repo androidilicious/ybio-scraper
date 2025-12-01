@@ -38,7 +38,7 @@ Duke University
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/ybio-scraper.git
+    git clone https://github.com/androidilicious/ybio-scraper.git
     cd ybio-scraper
     ```
 
