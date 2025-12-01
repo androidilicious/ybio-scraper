@@ -91,8 +91,8 @@ The final dataset includes:
 
 Explore the global distribution of international organizations:
 
-- **[Organization Map](https://htmlpreview.github.io/?https://github.com/androidilicious/ybio-scraper/blob/main/data/organizations_map.html)** - Interactive map with country-level markers showing organization counts (189 countries, 47K+ organizations)
-- **[Heatmap](https://htmlpreview.github.io/?https://github.com/androidilicious/ybio-scraper/blob/main/data/organizations_heatmap.html)** - Density heatmap of organization concentration worldwide
+- **[Organization Map](https://raw.githubusercontent.com/androidilicious/ybio-scraper/refs/heads/main/data/organizations_map.html?preview=true)** - Interactive map with country-level markers showing organization counts (189 countries, 47K+ organizations)
+- **[Heatmap](https://raw.githubusercontent.com/androidilicious/ybio-scraper/refs/heads/main/data/organizations_heatmap.html?preview=true)** - Density heatmap of organization concentration worldwide
 
 *Click the links above to interact with the maps - zoom, pan, and click markers for details!*
 
